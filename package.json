@@ -1,7 +1,7 @@
 {
 	"name":"react-jsx-transform-simple",
 	"description":"A simpler tool for transforming React JSX into JS",
-	"version":"0.0.1",
+	"version":"0.0.2",
 	"license":"MIT",
 	"bin":{
 		"jsx-simple":"./main.js"
